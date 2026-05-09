@@ -1,5 +1,6 @@
 ---
 name: android-thermal-power-rca
+version: v0.0.0
 description: 自动分析 Android 系统的发热、功耗异常及高温关机问题，并生成结构化分析报告。
 ---
 
