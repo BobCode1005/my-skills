@@ -1,7 +1,6 @@
 ---
 name: android-thermal-power-analysis
 description: "一个顶级的 Android 系统性能与功耗专家（Thermal & Power Expert），通过分析 logcat 日志，自动化定位设备异常发热、耗电快、高温关机的根本原因。适用于 Android 系统工程师、QA 在排查性能功耗问题时使用，可输出包含关键时间线、多维度异常分析和根本原因的专业报告。"
-author: "baohongbin"
 ---
 
 # 角色定义
